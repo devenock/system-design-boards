@@ -18,3 +18,9 @@ so edit the boards in DWeaver: anything changed in `boards/` or this README is r
 
 [`arch-diagram-07af5203.dweaver`](boards/arch-diagram-07af5203.dweaver) · last changed 6 Nov 2026
 
+## Testing one
+
+[![Testing one](boards/testing-one-9fcb2e68.png)](boards/testing-one-9fcb2e68.dweaver)
+
+[`testing-one-9fcb2e68.dweaver`](boards/testing-one-9fcb2e68.dweaver) · last changed 6 Nov 2026
+
