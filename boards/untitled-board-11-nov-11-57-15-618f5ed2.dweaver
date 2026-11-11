@@ -1,0 +1,96 @@
+{
+  "appState": {
+    "viewBackgroundColor": "#ffffff",
+    "gridSize": null,
+    "canvasPattern": "none"
+  },
+  "elements": [
+    {
+      "id": "q1vjz5ajmw94gszc",
+      "x": 514.4375,
+      "y": 168.1640625,
+      "width": 191,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": null,
+      "seed": 1473841868,
+      "version": 21,
+      "versionNonce": 98636353,
+      "isDeleted": false,
+      "groupIds": [],
+      "frameId": null,
+      "boundElements": null,
+      "updated": 1794220352393,
+      "link": null,
+      "locked": false,
+      "index": "a0",
+      "type": "text",
+      "text": "Backend Engineering",
+      "originalText": "Backend Engineering",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "lineHeight": 1.25,
+      "containerId": null,
+      "autoResize": true
+    },
+    {
+      "id": "kwa5a7c7mw94h2ux",
+      "x": 490.953125,
+      "y": 190.21875,
+      "width": 346.9453125,
+      "height": 3.23828125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 659960540,
+      "version": 40,
+      "versionNonce": 1519763470,
+      "isDeleted": false,
+      "groupIds": [],
+      "frameId": null,
+      "boundElements": null,
+      "updated": 1794220356407,
+      "link": null,
+      "locked": false,
+      "index": "a1",
+      "type": "line",
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          346.9453125,
+          3.23828125
+        ]
+      ],
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "startBinding": null,
+      "endBinding": null,
+      "elbowed": false,
+      "lastCommittedPoint": null
+    }
+  ],
+  "files": {},
+  "source": "dweaver",
+  "type": "dweaver",
+  "version": 2
+}
