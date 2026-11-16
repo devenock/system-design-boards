@@ -28,9 +28,11 @@ so edit the boards in DWeaver: anything changed in `boards/` or this README is r
 
 [![Untitled board 10 Nov, 11:14:07](boards/untitled-board-10-nov-11-14-07-c27180e1.png)](boards/untitled-board-10-nov-11-14-07-c27180e1.dweaver)
 
-[`untitled-board-10-nov-11-14-07-c27180e1.dweaver`](boards/untitled-board-10-nov-11-14-07-c27180e1.dweaver) · last changed 10 Nov 2026
+[`untitled-board-10-nov-11-14-07-c27180e1.dweaver`](boards/untitled-board-10-nov-11-14-07-c27180e1.dweaver) · last changed 16 Nov 2026
 
 ## Untitled board 11 Nov, 11:57:15
 
-[`untitled-board-11-nov-11-57-15-618f5ed2.dweaver`](boards/untitled-board-11-nov-11-57-15-618f5ed2.dweaver) · last changed 11 Nov 2026
+[![Untitled board 11 Nov, 11:57:15](boards/untitled-board-11-nov-11-57-15-618f5ed2.png)](boards/untitled-board-11-nov-11-57-15-618f5ed2.dweaver)
+
+[`untitled-board-11-nov-11-57-15-618f5ed2.dweaver`](boards/untitled-board-11-nov-11-57-15-618f5ed2.dweaver) · last changed 16 Nov 2026
 
